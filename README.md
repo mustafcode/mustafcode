@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mustafcode
+- 👋 Hi, I’m @chozencode
 - 👀 My passion is leveraging technology to create valuable user experiences at scale. I enjoy combining UX design, creative problem solving & knowledge of user facing technologies in order to build products users love.
 - 🌱 I’m currently learning Web Development, AWS & UX Design
 - 📫 How to reach me: My Email = mustafcode@gmail.com
