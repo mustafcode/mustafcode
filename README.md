@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mustafcode
-- 👀 I’m a Software Engineer specializing in building intuitive web & mobile applications. My passion is leveraging technology to create valuable user experiences at scale.       I enjoy combining creative problem solving, analytics & knowledge of user facing technologies in order to build products users love.
-- 🌱 I’m currently learning Full-Stack Web Development, AWS & UX Design
-- 💞️ I’m looking to collaborate on beginner friendly open source projects where I could be of value
+- 👀 My passion is leveraging technology to create valuable user experiences at scale. I enjoy combining creative problem solving, UX design & knowledge of user facing technologies in order to build products users love.
+- 🌱 I’m currently learning Front End, AWS & UX Design
 - 📫 How to reach me: My Email = mustafcode@gmail.com
       LinkedIn = https://www.linkedin.com/in/mustafaden/
 
