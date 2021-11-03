@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mustafcode
-- 👀 My passion is leveraging technology to create valuable user experiences at scale. I enjoy combining UX design, creative problem solving & knowledge of user facing technologies in order to build products users love.
+- 👀 My passion is leveraging technology to create valuable user experiences at scale. I enjoy combining creative problem solving, analytics & knowledge of user facing technologies in order to build products users love.
 - 🌱 I’m currently learning Web Development, AWS & UX Design
 - 📫 How to reach me: My Email = mustafcode@gmail.com
       LinkedIn = https://www.linkedin.com/in/mustafaden/
