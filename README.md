@@ -1,4 +1,4 @@
-- 👋 Hi, My name is Mustaf Aden @mustafcode
+- 👋 Hi, My name is Mustaf @mustafcode & I am an aspring software engineer. 
 - 👀 My passion is leveraging technology to create valuable user experiences at scale. I enjoy combining design thinking, data analytics & software engineering in order to build intuitive products users love.
 - 📫 How to reach me: My Email = mustafcode@gmail.com
       LinkedIn = https://www.linkedin.com/in/mustafaden/
