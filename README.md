@@ -1,5 +1,5 @@
 - 👋 Hello World, My name is Mustaf Aden.
-- 👀 I'm a creative technologist with a passion for creating valuable user experiences at scale. roduct, then turn that vision into a reality.
+- 👀 I'm a creative technologist with a passion for creating valuable user experiences at scale. 
 - 📫 How to reach me: My Email = mustafcode@gmail.com
       
 
