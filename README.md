@@ -1,7 +1,6 @@
 👋 Hello World!
 
-👀 I'm a creative technologist with a passion for creating valuable user experiences at scale.
-In a world of increasing complexity and interconnectedness, I utilize systems and design thinking to make sense of the world and find innovative solutions to problems.
+👀 I'm a creative technologist with a passion for designing and developing valuable user experiences at scale. My approach is grounded in both systems and design thinking, allowing me to craft solutions that are both elegant and efficient. I enjoy leveraging technology and design principles to create innovative and impactful solutions for users.
 
 📫 How to reach me: My Email = mustafcode@gmail.com
       
